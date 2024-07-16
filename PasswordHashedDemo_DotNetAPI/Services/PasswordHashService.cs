@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using PasswordHashedDemo_DotNetAPI.Models;
 
-namespace PasswordHashedDemo_DotNetAPI.Services
+namespace PasswordHashedDemo_DotNetAPI.Services  //comment
 {
     public interface IPasswordHashService
     {
